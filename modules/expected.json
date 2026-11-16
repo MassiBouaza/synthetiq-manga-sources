@@ -1,0 +1,81 @@
+{
+  "search": {
+    "items": [
+      {
+        "id": "https://sushiscan.net/catalogue/fixture-alpha/",
+        "href": "https://sushiscan.net/catalogue/fixture-alpha/",
+        "title": "Fixture Alpha",
+        "image": "https://sushiscan.net/wp-content/uploads/fixture/alpha.jpg"
+      },
+      {
+        "id": "https://sushiscan.net/catalogue/fixture-beta/",
+        "href": "https://sushiscan.net/catalogue/fixture-beta/",
+        "title": "Fixture Beta",
+        "image": "https://sushiscan.net/wp-content/uploads/fixture/beta.jpg"
+      }
+    ],
+    "hasMore": true
+  },
+  "details": {
+    "id": "https://sushiscan.net/catalogue/fixture-alpha/",
+    "href": "https://sushiscan.net/catalogue/fixture-alpha/",
+    "url": "https://sushiscan.net/catalogue/fixture-alpha/",
+    "title": "Fixture Alpha",
+    "description": "Une fixture déterministe pour SushiScan.",
+    "image": "https://sushiscan.net/wp-content/uploads/fixture/alpha.jpg",
+    "authors": [
+      "Fixture Author"
+    ],
+    "author": "Fixture Author",
+    "genres": [
+      "Action",
+      "Aventure"
+    ],
+    "status": "En cours"
+  },
+  "chapters": [
+    {
+      "id": "https://sushiscan.net/fixture-alpha-volume-3/",
+      "href": "https://sushiscan.net/fixture-alpha-volume-3/",
+      "url": "https://sushiscan.net/fixture-alpha-volume-3/",
+      "title": "Volume 3",
+      "number": 3,
+      "releaseDate": "12 janvier 2026",
+      "language": "fr"
+    },
+    {
+      "id": "https://sushiscan.net/fixture-alpha-volume-2/",
+      "href": "https://sushiscan.net/fixture-alpha-volume-2/",
+      "url": "https://sushiscan.net/fixture-alpha-volume-2/",
+      "title": "Volume 2",
+      "number": 2,
+      "releaseDate": "5 janvier 2026",
+      "language": "fr"
+    },
+    {
+      "id": "https://sushiscan.net/fixture-alpha-volume-1/",
+      "href": "https://sushiscan.net/fixture-alpha-volume-1/",
+      "url": "https://sushiscan.net/fixture-alpha-volume-1/",
+      "title": "Volume 1",
+      "number": 1,
+      "releaseDate": "1 janvier 2026",
+      "language": "fr"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://sushiscan.net/wp-content/uploads/fixture/p1.jpg",
+      "headers": {
+        "Accept": "image/avif,image/webp,image/*,*/*",
+        "Referer": "https://sushiscan.net/"
+      }
+    },
+    {
+      "url": "https://sushiscan.net/wp-content/uploads/fixture/p2.webp",
+      "headers": {
+        "Accept": "image/avif,image/webp,image/*,*/*",
+        "Referer": "https://sushiscan.net/"
+      }
+    }
+  ]
+}

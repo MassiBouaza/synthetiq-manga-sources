@@ -1,0 +1,52 @@
+{
+  "allowedHosts": [
+    "sushiscan.net",
+    "*.sushiscan.net"
+  ],
+  "attribution": {
+    "author": "Synthetiq-HQ",
+    "authorizationURL": null,
+    "licenseName": null,
+    "licenseURL": null,
+    "website": "https://sushiscan.net"
+  },
+  "baseURL": "https://sushiscan.net",
+  "capabilities": [
+    "popular",
+    "latest",
+    "search",
+    "details",
+    "chapters",
+    "images",
+    "imageRequest",
+    "discovery"
+  ],
+  "contentRating": "suggestive",
+  "contentType": "pageImages",
+  "contractVersion": 1,
+  "entry": {
+    "path": "modules/sushiscan/index.js",
+    "sha256": "3cb3280379c538672f531c8dc4fa81105aefff0e96399bac2cebc1e9f73f6019"
+  },
+  "familyID": "sushiscan",
+  "icon": {
+    "path": "modules/sushiscan/icon.png",
+    "sha256": "b1fc0249caf13b4e5e7ca12beb9e8e32e5927d5d5b32d68c8b051b381af9c82d"
+  },
+  "id": "sushiscan",
+  "language": "fr",
+  "legacyIDs": [],
+  "limits": {
+    "cacheTTLSeconds": 900,
+    "maxConcurrentRequests": 2,
+    "maxResponseBytes": 8388608,
+    "maxScriptBytes": 262144,
+    "timeoutMilliseconds": 25000
+  },
+  "minimumAppVersion": "1.0.0",
+  "name": "SushiScan",
+  "releaseTrack": "beta",
+  "status": "active",
+  "universalLink": "https://synthetiq.uk/manga/modules/sushiscan",
+  "version": "1.0.0"
+}
